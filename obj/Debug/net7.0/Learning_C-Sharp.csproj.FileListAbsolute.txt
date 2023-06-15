@@ -1,0 +1,15 @@
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\bin\Debug\net7.0\Learning_C-Sharp.exe
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\bin\Debug\net7.0\Learning_C-Sharp.deps.json
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\bin\Debug\net7.0\Learning_C-Sharp.runtimeconfig.json
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\bin\Debug\net7.0\Learning_C-Sharp.dll
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\bin\Debug\net7.0\Learning_C-Sharp.pdb
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.csproj.AssemblyReference.cache
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.AssemblyInfoInputs.cache
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.AssemblyInfo.cs
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.dll
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\refint\Learning_C-Sharp.dll
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.pdb
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.genruntimeconfig.cache
+C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\ref\Learning_C-Sharp.dll
