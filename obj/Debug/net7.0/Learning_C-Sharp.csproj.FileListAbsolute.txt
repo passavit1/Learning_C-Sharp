@@ -13,3 +13,17 @@ C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\r
 C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.pdb
 C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.genruntimeconfig.cache
 C:\Users\passavit\Desktop\Gun\Vscode\project\Learning_C-Sharp\obj\Debug\net7.0\ref\Learning_C-Sharp.dll
+C:\DEV\Learning_C-Sharp\bin\Debug\net7.0\Learning_C-Sharp.exe
+C:\DEV\Learning_C-Sharp\bin\Debug\net7.0\Learning_C-Sharp.deps.json
+C:\DEV\Learning_C-Sharp\bin\Debug\net7.0\Learning_C-Sharp.runtimeconfig.json
+C:\DEV\Learning_C-Sharp\bin\Debug\net7.0\Learning_C-Sharp.dll
+C:\DEV\Learning_C-Sharp\bin\Debug\net7.0\Learning_C-Sharp.pdb
+C:\DEV\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.AssemblyInfoInputs.cache
+C:\DEV\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.AssemblyInfo.cs
+C:\DEV\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.csproj.CoreCompileInputs.cache
+C:\DEV\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.dll
+C:\DEV\Learning_C-Sharp\obj\Debug\net7.0\refint\Learning_C-Sharp.dll
+C:\DEV\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.pdb
+C:\DEV\Learning_C-Sharp\obj\Debug\net7.0\Learning_C-Sharp.genruntimeconfig.cache
+C:\DEV\Learning_C-Sharp\obj\Debug\net7.0\ref\Learning_C-Sharp.dll
